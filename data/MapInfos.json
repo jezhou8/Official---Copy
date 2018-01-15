@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Village","order":1,"parentId":0,"scrollX":862,"scrollY":521.6666666666666},
+{"id":1,"expanded":true,"name":"Village","order":1,"parentId":0,"scrollX":532,"scrollY":323.5},
 {"id":2,"expanded":true,"name":"School","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"Inside School","order":3,"parentId":2,"scrollX":832,"scrollY":640}
 ]
