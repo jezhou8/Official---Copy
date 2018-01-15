@@ -4,6 +4,5 @@ var $plugins =
 [
 {"name":"GALV_TitleCommands","status":true,"description":"Allows you to customize what commands appear in the title screen menu.","parameters":{"Default Commands":"New Game,new,always|Continue,con,isSave|Options,opt,always|Quit,quit,always","Mod Condition":"","Mod Commands":""}},
 {"name":"YEP_SectionedGauges","status":true,"description":"v1.03 Section up your gauges to make them easier to read.","parameters":{"---Sections---":"","HP Gauge Sections":"10","MP Gauge Sections":"4","TP Gauge Sections":"4","---Status Menu Core---":"","EXP Gauge Sections":"10","Param Gauge Sections":"10"}},
-{"name":"ui_Energy","status":true,"description":"","parameters":{}},
-{"name":"ui_Time","status":true,"description":"","parameters":{}}
+{"name":"ui_Energy","status":true,"description":"","parameters":{}}
 ];
