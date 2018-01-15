@@ -37,7 +37,7 @@ Our project is currently not open to outside contributors.
 * **Harsh Daskia** 		  - *Initial work* - [harshdasika](https://github.com/harshdasika)
 * **Jerry Zhou** 		  - *Initial work* - [jezhou8](https://github.com/jezhou8, https://github.com/john-titor-36)
 
-See also the list of [contributors](https://github.com/offical---copy/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jezhou8/offical---copy/contributors) who participated in this project.
 
 ## License
 
